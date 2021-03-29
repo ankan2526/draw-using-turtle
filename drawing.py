@@ -54,5 +54,3 @@ while 1:
         t.fillcolor(colors[col%4])
         t.begin_fill()
 turtle.done()
-
-        
